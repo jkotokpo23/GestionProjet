@@ -1,0 +1,17 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "c:\\Users\\kotok\\Downloads\\extra\\libs\\orsonpdf-1.6-eval.jar",
+        "c:\\Users\\kotok\\Downloads\\extra\\libs\\servlet.jar",
+        "c:\\Users\\kotok\\Downloads\\extra\\libs\\swtgraphics2d.jar",
+        "c:\\Users\\kotok\\Downloads\\extra\\libs\\hamcrest-core-1.3.jar",
+        "c:\\Users\\kotok\\Downloads\\extra\\libs\\jcommon-1.0.23.jar",
+        "c:\\Users\\kotok\\Downloads\\extra\\libs\\jfreechart-1.0.19.jar",
+        "c:\\Users\\kotok\\Downloads\\extra\\libs\\jfreechart-1.0.19-experimental.jar",
+        "c:\\Users\\kotok\\Downloads\\extra\\libs\\jfreechart-1.0.19-swt.jar",
+        "c:\\Users\\kotok\\Downloads\\extra\\libs\\jfreesvg-2.0.jar",
+        "c:\\Users\\kotok\\Downloads\\extra\\libs\\junit-4.11.jar",
+        "c:\\Users\\kotok\\Downloads\\extra\\libs\\log4j-1.2.17.jar",
+        "c:\\Users\\kotok\\Downloads\\extra\\libs\\orsoncharts-1.4-eval-nofx.jar"
+    ]
+}
