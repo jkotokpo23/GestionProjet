@@ -20,8 +20,8 @@ public class testGameBuiler {
     public void testBuildMap() {
         Map map = GameBuilder.buildMap();
         assertNotNull(map);
-        assertEquals(GameConfiguration.LINE_COUNT, map.getLineCount()); // Assurez-vous que getLineCount est une méthode existante
-        assertEquals(GameConfiguration.COLUMN_COUNT, map.getColumnCount()); // Assurez-vous que getColumnCount est une méthode existante
+        assertEquals(GameConfiguration.LINE_COUNT, map.getLineCount()); 
+        assertEquals(GameConfiguration.COLUMN_COUNT, map.getColumnCount()); 
     }
 
     //On teste les constitutifs de notre jeu le manager et le Aircraft pour ne pas avoir de NullPointerException
